@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="revision.css">
+    <title>Document</title>
+</head>
+<body>
+   <!--  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis voluptatum impedit odio dolores magni! Non esse illum laborum eveniet modi. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem harum sequi consequatur ut suscipit necessitatibus odit expedita sed voluptatibus vero.</p>   -->
+    <nav>
+
+        
+        <h2>POPULAR SITES</h2>
+        <ul>
+            <li><a href="#">JavaTpoint</a></li>
+            <li><a href="#">GOOGLE</a></li>
+            <li><a href="#">FREE CODE CAMP</a></li>
+            <li><a href="https://www.youtube.com/c/DaveGrayTeachesCode " target="_blank">Dave GraY</a></li>
+            <li><a href="#">SAMPLE FILE</a></li>
+        </ul>
+
+        
+    </nav>
+
+    <p>
+        Learn more about <a href="#">OTHER SITES</a>
+    </p>
+</body>
+</html>
